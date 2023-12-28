@@ -1,3 +1,6 @@
+Mặc dù mô hình của nhóm cho kết quả chưa được tốt, các thành viên đã nỗ lực hết mình để hoàn thiện sản phẩm này.
+Các ý tưởng đã được đưa ra để xây dựng và cải tiến cho mô hình trong tương lai.
+
 ### End-term project for Machine Learning Course
 
 Github link: https://github.com/RescueCat1100/Movies-Classification
