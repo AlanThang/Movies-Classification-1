@@ -1,10 +1,10 @@
 ### End-term project for Machine Learning Course
 
-Github link: https://github.com/RescueCat1100/Movies-Classification
+Github link: https://github.com/huong-daodinh/movies-classification.git
 
-Colab notebook: https://colab.research.google.com/drive/1V-8iHz0cXBdHsPXETCjeFQikofAguOmj
+Colab notebook: 
 
-Report: https://github.com/RescueCat1100/Movies-Classification/blob/main/Nhóm%207.pdf
+Report: 
 
 The script can be excuted directly on Google Colab.
 
@@ -20,3 +20,4 @@ Me
 4. pandas
 5. numpy
 6. matplotlib
+7. gdown
